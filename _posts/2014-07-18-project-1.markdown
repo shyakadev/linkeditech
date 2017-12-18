@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+#date: 2014-07-18
+img: cabin.png
+alt: image-alt
+title: Networking & IT Support
+icon: server
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: et rutrum dui magna ut arcu. Proin id nisi quis dui ultricies venenatis et quis elit.
+---

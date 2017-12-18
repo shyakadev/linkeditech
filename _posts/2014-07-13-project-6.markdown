@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 6
+#date: 2014-07-15
+img: submarine.png
+alt: image-alt
+title: Network Security & System
+icon: shield
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus blandit fermentum. 
+
+---

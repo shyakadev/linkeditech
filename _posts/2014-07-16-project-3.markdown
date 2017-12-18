@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 3
+#date: 2014-07-16
+img: circus.png
+alt: image-alt
+title: Web & Graphic Design
+icon: newspaper-o
+#project-date: April 2014
+#client: Start Bootstrap
+#category: Web Development
+description: Cras ut quam non dui congue dapibus vestibulum nec leo. Nulla hendrerit scelerisque eleifend.
+
+---
