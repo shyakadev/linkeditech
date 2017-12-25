@@ -207,7 +207,13 @@ font-style: oblique;
 .navbar-fixed-top .navbar-brand {
     font-size: 1em !important;
 }
-@media only screen and (min-width: 400px){
+
+ header .container {
+    padding-top: 40% !important;
+    padding-bottom: 80% !important;
+  }
+
+/*@media only screen and (min-width: 400px){
   .navbar-brand .span {
   color:white;
   font-size: 0.6em;
@@ -215,20 +221,20 @@ font-style: oblique;
 }
 
 
-}
+}*/
 
 
 /* ======= header =====responsiveness ===*/
 
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 680px) {
   .navbar-fixed-top .navbar-brand {
     font-size: 1.4em !important;
   }
 
   header .container {
-    padding-top: 50%;
-    padding-bottom: 100%;
+    padding-top: 20% !important;
+    padding-bottom: 100px !important;
   }
 }
 
