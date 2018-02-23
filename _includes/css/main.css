@@ -10,6 +10,12 @@
 
 /* ===========arrows animation====== */
 
+.responsive {
+  max-width: 150%;
+height: auto;
+padding-right: 20%;
+margin-left: -10% !important;
+}
 
 body .arrows {
   position: relative;

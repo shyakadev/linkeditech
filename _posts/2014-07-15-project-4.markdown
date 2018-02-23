@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 #date: 2014-07-15
-img: game.png
+img: support.png
 alt: image-alt
 title: General Hardware & Software Support
 icon: desktop
