@@ -9,6 +9,5 @@ icon: newspaper-o
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Cras ut quam non dui congue dapibus vestibulum nec leo. Nulla hendrerit scelerisque eleifend.
-
+description: We provide high quality of web services as a website is the first impression that a customer see and make them confident about your professional presence. 
 ---

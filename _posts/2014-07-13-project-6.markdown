@@ -9,6 +9,5 @@ icon: shield
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus blandit fermentum. 
-
+description: We help in identification of threats, security vulnerabilities and protect your infrastructure.
 ---

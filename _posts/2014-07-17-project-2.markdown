@@ -9,6 +9,6 @@ icon: video-camera
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi maximus blandit fermentum.
+description: We offer cctv camera installation services for home and business and any other services related to camera. 
 
 ---

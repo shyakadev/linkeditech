@@ -9,6 +9,6 @@ icon: cloud
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: Cras ut quam non dui congue dapibus vestibulum nec leo. Nulla hendrerit scelerisque eleifend. Nulla purus erat, feugiat a suscipit ut, lobortis eu eros. 
+description: We offer cloud services support to businesses. 
 
 ---
