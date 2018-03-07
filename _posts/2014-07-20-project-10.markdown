@@ -2,12 +2,12 @@
 layout: default
 modal-id: 2
 #date: 2014-07-17
-img: cctv_camera.jpg
+img: server-installation.jpg
 alt: image-alt
-title: CCTV Camera
+title: Server Installation
 icon: video-camera
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: We offer cctv camera installation services for home and business and any other services related to camera. 
+description: We offer Server installation services for small to medium organization and corporate.
 ---
