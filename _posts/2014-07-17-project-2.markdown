@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 #date: 2014-07-17
-img: cctv_camera.png
+img: cctv_camera.jpg
 alt: image-alt
 title: CCTV Camera
 icon: video-camera
