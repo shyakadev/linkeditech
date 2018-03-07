@@ -2,13 +2,12 @@
 layout: default
 modal-id: 1
 #date: 2014-07-18
-img: graphic_design.jpg
+img: it_support.png
 #alt: image-alt
-title: Graphic Design
+title: IT Support
 icon: server
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: We provide effective Graphic Design services.
-
+description: We provide effective IT support services solutions for small to medium organization and corporate.
 ---
