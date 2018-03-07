@@ -2,9 +2,9 @@
 layout: default
 modal-id: 3
 #date: 2014-07-16
-img: web.png
+img: web_and_design.png
 alt: image-alt
-title: Web & Graphic Design
+title: Web Design
 icon: newspaper-o
 #project-date: April 2014
 #client: Start Bootstrap

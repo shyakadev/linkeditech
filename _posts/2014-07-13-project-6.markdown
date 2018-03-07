@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 #date: 2014-07-15
-img: security.png
+img: security.jpg
 alt: image-alt
 title: Network Security & System
 icon: shield
