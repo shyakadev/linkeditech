@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="http://localhost:4000/linkeditech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/linkeditech/" rel="alternate" type="text/html" />
-  <updated>2018-03-08T01:17:05+02:00</updated>
+  <updated>2018-03-08T02:26:18+02:00</updated>
   <id>http://localhost:4000/linkeditech/</id>
 
   
@@ -18,38 +18,6 @@
   
 
   
-  
-    <entry>
-      <title type="html">IT Support</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/21/project-9/" rel="alternate" type="text/html" title="IT Support" />
-      <published>2014-07-21T00:00:00+02:00</published>
-      <updated>2014-07-21T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/21/project-9</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/21/project-9/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Server Installation</title>
