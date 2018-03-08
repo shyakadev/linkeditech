@@ -538,6 +538,9 @@ section.success {
     color: #1,1,1;
     background: #fff;
 }
+.btn-outline:hover{
+  background-color: rgba(181, 27, 72, 0.96)!important;
+}
 
 .floating-label-form-group {
     position: relative;
