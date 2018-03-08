@@ -41,11 +41,11 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: https://twitter.com/linkeditech/
   - title: facebook
-    url:
+    url: https://www.facebook.com/LinkedSL/
   - title: instagram
-    url: 
+    url: https://www.instagram.com/linkeditech/
 
 # Postal address (add as many lines as necessary)
 address:
