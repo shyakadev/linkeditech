@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator>
   <link href="http://localhost:4000/linkeditech/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/linkeditech/" rel="alternate" type="text/html" />
-  <updated>2018-04-12T01:24:57+02:00</updated>
+  <updated>2018-04-23T02:04:06+02:00</updated>
   <id>http://localhost:4000/linkeditech/</id>
 
   
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">Server Installation</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/20/project-10/" rel="alternate" type="text/html" title="Server Installation" />
+      <link href="http://localhost:4000/linkeditech/2014/07/20/p8/" rel="alternate" type="text/html" title="Server Installation" />
       <published>2014-07-20T00:00:00+02:00</published>
       <updated>2014-07-20T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/20/project-10</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/20/project-10/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/20/p8</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/20/p8/"></content>
 
       
       
@@ -53,11 +53,11 @@
   
     <entry>
       <title type="html">Graphic Design</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/19/project-8/" rel="alternate" type="text/html" title="Graphic Design" />
+      <link href="http://localhost:4000/linkeditech/2014/07/19/p7/" rel="alternate" type="text/html" title="Graphic Design" />
       <published>2014-07-19T00:00:00+02:00</published>
       <updated>2014-07-19T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/19/project-8</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/19/project-8/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/19/p7</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/19/p7/"></content>
 
       
       
@@ -85,11 +85,11 @@
   
     <entry>
       <title type="html">Networking</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/18/project-1/" rel="alternate" type="text/html" title="Networking" />
+      <link href="http://localhost:4000/linkeditech/2014/07/18/p6/" rel="alternate" type="text/html" title="Networking" />
       <published>2014-07-18T00:00:00+02:00</published>
       <updated>2014-07-18T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/18/project-1</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/18/project-1/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/18/p6</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/18/p6/"></content>
 
       
       
@@ -117,11 +117,11 @@
   
     <entry>
       <title type="html">CCTV Camera</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/17/project-2/" rel="alternate" type="text/html" title="CCTV Camera" />
+      <link href="http://localhost:4000/linkeditech/2014/07/17/p5/" rel="alternate" type="text/html" title="CCTV Camera" />
       <published>2014-07-17T00:00:00+02:00</published>
       <updated>2014-07-17T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/17/project-2</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/17/project-2/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/17/p5</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/17/p5/"></content>
 
       
       
@@ -149,11 +149,11 @@
   
     <entry>
       <title type="html">Web Design</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/16/project-3/" rel="alternate" type="text/html" title="Web Design" />
+      <link href="http://localhost:4000/linkeditech/2014/07/16/p4/" rel="alternate" type="text/html" title="Web Design" />
       <published>2014-07-16T00:00:00+02:00</published>
       <updated>2014-07-16T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/16/project-3</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/16/project-3/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/16/p4</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/16/p4/"></content>
 
       
       
@@ -181,75 +181,11 @@
   
     <entry>
       <title type="html">General Hardware &amp;amp; Software Support</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/15/project-4/" rel="alternate" type="text/html" title="General Hardware &amp; Software Support" />
+      <link href="http://localhost:4000/linkeditech/2014/07/15/p3/" rel="alternate" type="text/html" title="General Hardware &amp; Software Support" />
       <published>2014-07-15T00:00:00+02:00</published>
       <updated>2014-07-15T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/15/project-4</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/15/project-4/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Internet related solutions</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/14/project-5/" rel="alternate" type="text/html" title="Internet related solutions" />
-      <published>2014-07-14T00:00:00+02:00</published>
-      <updated>2014-07-14T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/14/project-5</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/14/project-5/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Network Security &amp;amp; System</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/13/project-6/" rel="alternate" type="text/html" title="Network Security &amp; System" />
-      <published>2014-07-13T00:00:00+02:00</published>
-      <updated>2014-07-13T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/13/project-6</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/13/project-6/"></content>
+      <id>http://localhost:4000/linkeditech/2014/07/15/p3</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/15/p3/"></content>
 
       
       
@@ -277,11 +213,11 @@
   
     <entry>
       <title type="html">IT Support</title>
-      <link href="http://localhost:4000/linkeditech/2014/07/12/project-7/" rel="alternate" type="text/html" title="IT Support" />
-      <published>2014-07-12T00:00:00+02:00</published>
-      <updated>2014-07-12T00:00:00+02:00</updated>
-      <id>http://localhost:4000/linkeditech/2014/07/12/project-7</id>
-      <content type="html" xml:base="http://localhost:4000/linkeditech/2014/07/12/project-7/"></content>
+      <link href="http://localhost:4000/linkeditech/other/2014/07/14/p9/" rel="alternate" type="text/html" title="IT Support" />
+      <published>2014-07-14T00:00:00+02:00</published>
+      <updated>2014-07-14T00:00:00+02:00</updated>
+      <id>http://localhost:4000/linkeditech/other/2014/07/14/p9</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/other/2014/07/14/p9/"></content>
 
       
       
@@ -295,6 +231,76 @@
         
       </author>
 
+      
+        <category term="other" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Internet related solutions</title>
+      <link href="http://localhost:4000/linkeditech/other/2014/07/13/p2/" rel="alternate" type="text/html" title="Internet related solutions" />
+      <published>2014-07-13T00:00:00+02:00</published>
+      <updated>2014-07-13T00:00:00+02:00</updated>
+      <id>http://localhost:4000/linkeditech/other/2014/07/13/p2</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/other/2014/07/13/p2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="other" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Network Security &amp;amp; System</title>
+      <link href="http://localhost:4000/linkeditech/other/2014/07/12/p1/" rel="alternate" type="text/html" title="Network Security &amp; System" />
+      <published>2014-07-12T00:00:00+02:00</published>
+      <updated>2014-07-12T00:00:00+02:00</updated>
+      <id>http://localhost:4000/linkeditech/other/2014/07/12/p1</id>
+      <content type="html" xml:base="http://localhost:4000/linkeditech/other/2014/07/12/p1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="other" />
       
 
       

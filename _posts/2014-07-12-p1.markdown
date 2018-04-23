@@ -8,6 +8,6 @@ title: Network Security & System
 icon: shield
 #project-date: April 2014
 #client: Start Bootstrap
-#category: Web Development
-description: We help in identification of threats, security vulnerabilities and protect your infrastructure.
+category: other
+description: We help in identification of threats, security vulnerabilities and protect your infrastructure. 
 ---

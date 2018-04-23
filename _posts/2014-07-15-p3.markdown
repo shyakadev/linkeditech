@@ -9,5 +9,5 @@ icon: desktop
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: From Technical support to consultancy we are there for you.
+description: From Technical support to consultancy we are there for you. 
 ---

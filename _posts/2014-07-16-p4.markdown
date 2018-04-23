@@ -9,5 +9,5 @@ icon: newspaper-o
 #project-date: April 2014
 #client: Start Bootstrap
 #category: Web Development
-description: We provide high quality of web services as a website is the first impression that a customer see. 
+description: We provide high quality of web services as a website is the first impression that a customer see.  
 ---

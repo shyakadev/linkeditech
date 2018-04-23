@@ -8,7 +8,7 @@ title: Internet related solutions
 icon: cloud
 #project-date: April 2014
 #client: Start Bootstrap
-#category: Web Development
+category: other
 description: We offer cloud services support to businesses. 
 
 ---
