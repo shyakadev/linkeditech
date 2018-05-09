@@ -9,7 +9,7 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-8 col-lg-offset-2">
-				<form  action="//formspree.io/{{ site.email }}" method="POST" name="sentMessage" id="contactForm" novalidate>
+				<form name="sentMessage" id="contactForm" novalidate>
 					<div class="row control-group">
 						<div class="form-group col-xs-12 floating-label-form-group controls">
 							<label>Name</label>
@@ -36,7 +36,9 @@
 						</div>
 					</div>
 					<br>
-					<div id="success"></div>
+					<div id="thanks" style="display: none">
+						<p>Thank you for contacting Us..</p>
+					</div>
 					<div class="row">
 						<div class="form-group col-xs-12">
 							<button type="submit" class="btn btn-lg sendButton">Send</button>
@@ -47,3 +49,7 @@
 		</div>
 	</div>
 </section>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
+<script src="/js/contact_form.js"></script>
