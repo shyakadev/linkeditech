@@ -19,7 +19,7 @@ $(document).ready(function(){
 			success:function(){
 				console.log('success');
 				$('#thanks').show();
-				$('#conactForm')[0].reset();
+				$('#contactForm')[0].reset();
 			}
 		})
 	})
