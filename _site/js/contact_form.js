@@ -18,8 +18,7 @@ $(document).ready(function(){
 			dataType: "json",
 			success:function(){
 				console.log('success');
-				$('#thanks').show();
-				$('#conactForm').reset();
+				$('thanks').show();
 			}
 		})
 	})
