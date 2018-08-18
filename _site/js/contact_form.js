@@ -7,7 +7,7 @@ $(document).ready(function(){
 		var message = $('#message').val();
 
 		$.ajax({
-			url:'https://formspree.io/shyakadev@gmail.com',
+			url:'https://formspree.io/info@linkeditech.com',
 			method: 'POST',
 			data: {
 				name:name,
@@ -18,7 +18,8 @@ $(document).ready(function(){
 			dataType: "json",
 			success:function(){
 				console.log('success');
-				$('thanks').show();
+				$('#thanks').show();
+				$('#contactForm')[0].reset();
 			}
 		})
 	})
