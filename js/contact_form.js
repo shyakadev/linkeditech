@@ -7,7 +7,7 @@ $(document).ready(function(){
 		var message = $('#message').val();
 
 		$.ajax({
-			url:'https://formspree.io/info@linkeditech.com',
+			url:'https://formspree.io/shadrafiza@gmail.com',
 			method: 'POST',
 			data: {
 				name:name,
