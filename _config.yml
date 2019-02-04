@@ -1,60 +1,37 @@
+
+exclude:
+  - "/vendor/"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE.md"
+  - "*.gemspec"
+
+keep_files:
+  - "CNAME"
+  - ".git"
+  - ".gitignore"
+
+
 # Site settings
-title: LINKED IT
-email: shyakadev@gmail.com
-url: 
-baseurl: /linkeditech
-description: "We Provide IT services both to local and global market with a comprehensive solutions for computer network, hardware, web design, graphic design and cyber security through a skilled and expertise management team. For us your pride is our success."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LINKED ITECH SOLUTIONS
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
-
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
-
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
-
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: "1,1,1" #18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: LINKED ITECH SOLUTIONS
-  location: Location
-  social: Follow us on
-  credits: Credits
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: https://twitter.com/linkeditech/
-  - title: facebook
-    url: https://www.facebook.com/LinkedSL/
-  - title: instagram
-    url: https://www.instagram.com/linkeditech/
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 1238 Remera, Gasabo
-  - line: KigaliHeight, 0240
-
-# Credits content
-#credits: 
+title: Linked Itech Solutions
+subtitle: "We are Linked Itech Solutions"
+url: "http://linkeditech.com" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/linkeditech"
+cover: "/assets/cover.png"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+
+# Google analytics
+# ga_tracking_id: "UA-XXXX-1"
+
+# Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
+
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."

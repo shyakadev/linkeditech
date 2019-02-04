@@ -1,2 +1,0 @@
-# linkeditech
-Linked Itech solution
