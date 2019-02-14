@@ -68,6 +68,11 @@ header {
   background: #fff;
   padding: 20px 0;
 }
+
+header .headerfix {
+  padding-bottom: 20px;
+}
+
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
@@ -76,7 +81,7 @@ header .navbar-brand {
   padding-top: 5px;
 }
 header .navbar-default {
-  background: none;
+  background: white;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
@@ -231,7 +236,7 @@ font header .navbar-default .navbar-nav li a:hover {
   Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/featue-bg.png");
   background-position: 50% 94px;
   width: 100%;
   display: block;
