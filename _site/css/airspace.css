@@ -68,6 +68,11 @@ header {
   background: #fff;
   padding: 20px 0;
 }
+
+header .headerfix {
+  padding-bottom: 20px;
+}
+
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
@@ -76,7 +81,7 @@ header .navbar-brand {
   padding-top: 5px;
 }
 header .navbar-default {
-  background: none;
+  background: white;
   border: 0px;
 }
 header .navbar-default .navbar-nav {
@@ -89,6 +94,10 @@ header .navbar-default .navbar-nav li a {
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  color: #e14350 !important;
 }
 /*---------------------------------------------
           Index Start
@@ -222,16 +231,16 @@ font header .navbar-default .navbar-nav li a:hover {
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
-  background-color: #fff;
+  background-color: #CC1614;
   font-size: 15px;
-  color: #333333;
+  color: #ffffff;
   margin-top: 30px;
 }
 /*--
   Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/featue-bg.png");
   background-position: 50% 94px;
   width: 100%;
   display: block;
