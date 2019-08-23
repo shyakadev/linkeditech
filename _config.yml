@@ -18,7 +18,7 @@ title: Linked Itech Solutions
 subtitle: "We are Linked Itech Solutions"
 url: "http://linkeditech.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ""
+baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
@@ -28,7 +28,7 @@ markdown: kramdown
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
 
-plugins: ['jekyll-twitter-plugin']
+#plugins: ['jekyll-twitter-plugin']
 
 # Category descriptions (for archive pages)
 descriptions:
